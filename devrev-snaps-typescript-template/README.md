@@ -62,3 +62,7 @@ The next step is to deploy and test the DevRev snap-in.
 3. If it is not deployed, click on the snap-in and press ```deploy snap-in``` on the upper right corner.
 4. Go back to ```Home``` and create a new ```work item``` such as an ```issue```, ```ticket``` etc.
 5. When the ```work item``` is created, a Hello World message should be commented in the ```Discussions``` thread automatically.
+
+### Hello World snap-in demonstration
+
+![](https://github.com/AdarshAcharya5/DevRev-Assignment/blob/main/devrev-snaps-typescript-template/helloworldsnapin.png)
